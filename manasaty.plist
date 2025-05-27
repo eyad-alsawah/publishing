@@ -13,7 +13,7 @@
             <string>https://publishserver.netlify.app/manasaty.ipa</string>
           </dict>
         </array>
-        <key>metadata</key>co
+        <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
           <string>com.pp.gov.qa.SelfService</string>
