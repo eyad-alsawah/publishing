@@ -1,0 +1,4 @@
+[[headers]]
+  for = "/*.plist"
+  [headers.values]
+    "Content-Type" = "application/x-plist"
